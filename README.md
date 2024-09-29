@@ -1,0 +1,1 @@
+# Uniform-Verification-and-Facial-Regconition-for-Managing-Student-Attendance
